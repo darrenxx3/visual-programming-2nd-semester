@@ -1,0 +1,7 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 net frame\ConsoleApp2 net frame\bin\Debug\ConsoleApp2 net frame.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 net frame\ConsoleApp2 net frame\bin\Debug\ConsoleApp2 net frame.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 net frame\ConsoleApp2 net frame\bin\Debug\ConsoleApp2 net frame.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 net frame\ConsoleApp2 net frame\obj\Debug\ConsoleApp2 net frame.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 net frame\ConsoleApp2 net frame\obj\Debug\ConsoleApp2 net frame.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 net frame\ConsoleApp2 net frame\obj\Debug\ConsoleApp2 net frame.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 net frame\ConsoleApp2 net frame\obj\Debug\ConsoleApp2 net frame.pdb

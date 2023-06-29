@@ -1,0 +1,13 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

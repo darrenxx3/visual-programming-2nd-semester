@@ -1,0 +1,7 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 for looping\ConsoleApp2 for looping\bin\Debug\ConsoleApp2 for looping.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 for looping\ConsoleApp2 for looping\bin\Debug\ConsoleApp2 for looping.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 for looping\ConsoleApp2 for looping\bin\Debug\ConsoleApp2 for looping.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 for looping\ConsoleApp2 for looping\obj\Debug\ConsoleApp2 for looping.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 for looping\ConsoleApp2 for looping\obj\Debug\ConsoleApp2 for looping.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 for looping\ConsoleApp2 for looping\obj\Debug\ConsoleApp2 for looping.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK2 coba\ConsoleApp2 for looping\ConsoleApp2 for looping\obj\Debug\ConsoleApp2 for looping.csproj.AssemblyReference.cache

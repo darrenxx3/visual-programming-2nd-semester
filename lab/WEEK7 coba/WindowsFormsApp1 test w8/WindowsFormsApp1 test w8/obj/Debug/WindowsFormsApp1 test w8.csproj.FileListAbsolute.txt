@@ -1,0 +1,12 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\bin\Debug\WindowsFormsApp1 test w8.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\bin\Debug\WindowsFormsApp1 test w8.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\bin\Debug\WindowsFormsApp1 test w8.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1 test w8.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1_test_w8.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1_test_w8.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1 test w8.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1 test w8.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1 test w8.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1 test w8.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1_test_w8.fcustomer.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK7 coba\WindowsFormsApp1 test w8\WindowsFormsApp1 test w8\obj\Debug\WindowsFormsApp1_test_w8.supplies.resources

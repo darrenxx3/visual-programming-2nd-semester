@@ -1,0 +1,10 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\bin\Debug\proses tombol array.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\bin\Debug\proses tombol array.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\bin\Debug\proses tombol array.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\obj\Debug\proses tombol array.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\obj\Debug\proses_tombol_array.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\obj\Debug\proses_tombol_array.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\obj\Debug\proses tombol array.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\obj\Debug\proses tombol array.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\obj\Debug\proses tombol array.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w6\proses tombol array\proses tombol array\obj\Debug\proses tombol array.pdb

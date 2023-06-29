@@ -1,0 +1,10 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\bin\Debug\inheritance form.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\bin\Debug\inheritance form.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\bin\Debug\inheritance form.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\obj\Debug\inheritance form.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\obj\Debug\inheritance_form.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\obj\Debug\inheritance_form.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\obj\Debug\inheritance form.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\obj\Debug\inheritance form.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\obj\Debug\inheritance form.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w7\inheritance form\inheritance form\obj\Debug\inheritance form.pdb

@@ -1,0 +1,10 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\bin\Debug\week 3 hitung dan tombol advance.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\bin\Debug\week 3 hitung dan tombol advance.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\bin\Debug\week 3 hitung dan tombol advance.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\obj\Debug\week_3_hitung_dan_tombol_advance.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\obj\Debug\week_3_hitung_dan_tombol_advance.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\obj\Debug\week 3 hitung dan tombol advance.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\obj\Debug\week 3 hitung dan tombol advance.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\obj\Debug\week 3 hitung dan tombol advance.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\obj\Debug\week 3 hitung dan tombol advance.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w3\week 3 hitung dan tombol advance\week 3 hitung dan tombol advance\obj\Debug\week 3 hitung dan tombol advance.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\bin\Debug\READ WRITE.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\bin\Debug\READ WRITE.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\bin\Debug\READ WRITE.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\obj\Debug\READ WRITE.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\obj\Debug\READ_WRITE.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\obj\Debug\READ_WRITE.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\obj\Debug\READ WRITE.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\obj\Debug\READ WRITE.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\obj\Debug\READ WRITE.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK14 COBA\READ WRITE\READ WRITE\obj\Debug\READ WRITE.pdb

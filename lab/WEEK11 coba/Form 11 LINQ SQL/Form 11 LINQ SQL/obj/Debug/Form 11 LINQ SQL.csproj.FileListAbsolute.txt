@@ -1,0 +1,10 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\bin\Debug\Form 11 LINQ SQL.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\bin\Debug\Form 11 LINQ SQL.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\bin\Debug\Form 11 LINQ SQL.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\obj\Debug\Form 11 LINQ SQL.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\obj\Debug\Form_11_LINQ_SQL.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\obj\Debug\Form_11_LINQ_SQL.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\obj\Debug\Form 11 LINQ SQL.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\obj\Debug\Form 11 LINQ SQL.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\obj\Debug\Form 11 LINQ SQL.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\WEEK11 coba\Form 11 LINQ SQL\Form 11 LINQ SQL\obj\Debug\Form 11 LINQ SQL.pdb

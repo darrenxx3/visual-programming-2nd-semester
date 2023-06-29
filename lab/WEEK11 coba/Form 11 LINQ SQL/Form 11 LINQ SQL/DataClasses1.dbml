@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="visprogw10" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-ADU8799N\SQLEXPRESS;Initial Catalog=visprogw10;Integrated Security=True" SettingsObjectName="Form_11_LINQ_SQL.Properties.Settings" SettingsPropertyName="visprogw10ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblmhs" Member="tblmhs">
+    <Type Name="tblmh">
+      <Column Name="nim" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nama" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

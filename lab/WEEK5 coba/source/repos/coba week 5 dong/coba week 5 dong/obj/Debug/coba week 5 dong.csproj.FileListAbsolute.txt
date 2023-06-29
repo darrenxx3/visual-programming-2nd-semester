@@ -1,0 +1,10 @@
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\bin\Debug\coba week 5 dong.exe.config
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\bin\Debug\coba week 5 dong.exe
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\bin\Debug\coba week 5 dong.pdb
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\obj\Debug\coba_week_5_dong.Form1.resources
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\obj\Debug\coba_week_5_dong.Properties.Resources.resources
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\obj\Debug\coba week 5 dong.csproj.GenerateResource.cache
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\obj\Debug\coba week 5 dong.csproj.CoreCompileInputs.cache
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\obj\Debug\coba week 5 dong.exe
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\obj\Debug\coba week 5 dong.pdb
+C:\Users\Darren\source\repos\coba week 5 dong\coba week 5 dong\obj\Debug\coba week 5 dong.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+
+SP31 dan runtime x64
+https://www.tektutorialshub.com/crystal-reports/download-crystal-reports-for-visual-studio-2019/#direct-download-link
+
+community2019
+https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads
+

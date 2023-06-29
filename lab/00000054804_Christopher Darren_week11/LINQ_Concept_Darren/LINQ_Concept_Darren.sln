@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Concept_Darren", "LINQ_Concept_Darren\LINQ_Concept_Darren.csproj", "{6A8DAE94-88CB-4897-9F63-D7115C1AD37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8DAE94-88CB-4897-9F63-D7115C1AD37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8DAE94-88CB-4897-9F63-D7115C1AD37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8DAE94-88CB-4897-9F63-D7115C1AD37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8DAE94-88CB-4897-9F63-D7115C1AD37F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B2B32F0-5318-4B5D-A713-B133B9A820AF}
+	EndGlobalSection
+EndGlobal

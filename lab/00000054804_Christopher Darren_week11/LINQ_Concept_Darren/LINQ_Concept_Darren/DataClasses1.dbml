@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="visprogw10" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-ADU8799N\SQLEXPRESS;Initial Catalog=visprogw10;Integrated Security=True" SettingsObjectName="LINQ_Concept_Darren.Properties.Settings" SettingsPropertyName="visprogw10ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.MstPelanggan" Member="MstPelanggans">
+    <Type Name="MstPelanggan">
+      <Column Name="KodePelanggan" Type="System.String" DbType="VarChar(4) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nama" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Alamat" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Umur" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,10 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\bin\Debug\Week2 calculator.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\bin\Debug\Week2 calculator.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\bin\Debug\Week2 calculator.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\obj\Debug\Week2 calculator.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\obj\Debug\Week2_calculator.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\obj\Debug\Week2_calculator.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\obj\Debug\Week2 calculator.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\obj\Debug\Week2 calculator.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\obj\Debug\Week2 calculator.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w2\Week2 calculator\Week2 calculator\obj\Debug\Week2 calculator.pdb

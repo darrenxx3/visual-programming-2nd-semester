@@ -1,0 +1,11 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\bin\Debug\LINQ_Concept_Darren.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\bin\Debug\LINQ_Concept_Darren.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\bin\Debug\LINQ_Concept_Darren.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.csproj.AssemblyReference.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.FormAnak1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week11\LINQ_Concept_Darren\LINQ_Concept_Darren\obj\Debug\LINQ_Concept_Darren.pdb

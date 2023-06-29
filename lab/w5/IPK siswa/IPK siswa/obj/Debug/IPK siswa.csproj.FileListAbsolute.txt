@@ -1,0 +1,10 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\bin\Debug\IPK siswa.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\bin\Debug\IPK siswa.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\bin\Debug\IPK siswa.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\obj\Debug\IPK_siswa.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\obj\Debug\IPK_siswa.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\obj\Debug\IPK siswa.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\obj\Debug\IPK siswa.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\obj\Debug\IPK siswa.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\obj\Debug\IPK siswa.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\w5\IPK siswa\IPK siswa\obj\Debug\IPK siswa.csproj.AssemblyReference.cache

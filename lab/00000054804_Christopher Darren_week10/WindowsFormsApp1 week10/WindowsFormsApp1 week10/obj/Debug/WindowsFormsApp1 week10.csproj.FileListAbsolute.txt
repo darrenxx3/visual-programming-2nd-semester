@@ -1,0 +1,11 @@
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\bin\Debug\WindowsFormsApp1 week10.exe.config
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\bin\Debug\WindowsFormsApp1 week10.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\bin\Debug\WindowsFormsApp1 week10.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1_week10.Form1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1_week10.Properties.Resources.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1 week10.csproj.GenerateResource.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1 week10.csproj.CoreCompileInputs.cache
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1 week10.exe
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1 week10.pdb
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1_week10.FormAnak1.resources
+D:\UMN Sistem informasi 2021 - 2022\SEMESTER 2\visual programming\lab\00000054804_Christopher Darren_week10\WindowsFormsApp1 week10\WindowsFormsApp1 week10\obj\Debug\WindowsFormsApp1 week10.csproj.AssemblyReference.cache
